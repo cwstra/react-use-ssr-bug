@@ -13,8 +13,8 @@
   "dependencies": {
     "compression": "^1.7.4",
     "express": "^4.19.2",
-    "react": "^0.0.0-experimental-e210d081-20240909",
-    "react-dom": "^0.0.0-experimental-e210d081-20240909",
+    "react": "19.0.0-rc-47352209-20240912",
+    "react-dom": "19.0.0-rc-47352209-20240912",
     "sirv": "^2.0.4"
   },
   "devDependencies": {
